@@ -10,6 +10,7 @@ public class Ejercicio_2 {
 		System.out.println("Hola Mundo");
 		System.out.println("Estoy aprendiendo Java");
 		System.out.println("Estoy en el curso de Programacion");
+		System.out.println("Ultimo commit del dia");
 		
 		ejercicio2.llamadoBucles();
 	}
